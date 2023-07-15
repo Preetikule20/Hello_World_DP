@@ -1,6 +1,6 @@
-ersion: '2.1'
+version: '2.1'
 orbs:
-  node: circleci/node.@4.7.0
+  node: circlci/node.@4.7.0
 jobs:
   test:
     executor:
