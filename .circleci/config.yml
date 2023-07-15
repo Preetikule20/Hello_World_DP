@@ -3,7 +3,7 @@ orbs:
   node: circleci/node@4.7.0
 jobs:
  build:
-   excecutor:
+   executor:
       name: node/default
       tags: '10.4'
     steps:
